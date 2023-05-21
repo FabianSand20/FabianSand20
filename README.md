@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="" alt="">
-    <h1 align="center"> Hi, I'm Ignacio</h1>
+    <h1 align="center"> Hi, I'm Fabián </h1>
     <h3 align="center">As a web design and development student at CETAV, I am dedicated to honing my skills and staying ahead of industry trends. My focus is on delivering exceptional web solutions. I am enthusiastic about collaborating with teams, contributing my creativity, and striving for success in every project.</h3>
   </div>
   
@@ -10,7 +10,7 @@
   
   - 🔭 Currently, I am studying web design and development at CETAV
   - 💬 Ask me about HTML, CSS, Javascript
-  - 📫 How to reach me: ignaciomaringarro@gmail.com
+  - 📫 How to reach me: fsandoval.design@gmail.com
   - 🌱 I’m currently learning Javascript, Python
 
 ---
