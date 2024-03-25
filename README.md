@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="" alt="">
     <h1 align="center"> Hi, I'm Fabián </h1>
-    <h3 align="center">As a web design and development student at CETAV, I am dedicated to honing my skills and staying ahead of industry trends. My focus is on delivering exceptional web solutions. I am enthusiastic about collaborating with teams, contributing my creativity, and striving for success in every project.</h3>
+    <h3 align="center">I am a Web Designer and Programmer with experience in digital design. My goal is to ensure innovative digital experiences and focus them on the user. I am passionate about challenging the normal parameters of creativity in projects and my goal is to combine my technical skills with my love for design. I always strive to strike a balance between aesthetics and functionality to deliver an exceptional user experience. I am committed to my professional growth and contributing to the success of the company in a collaborative and dynamic environment.</h3>
   </div>
   
   ---
